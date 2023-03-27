@@ -1,0 +1,27 @@
+id: 123
+name: Christina Anderson
+age: 20
+major: Computer Science
+address:
+  street: 1 Kornyakta St
+  city: Lviv
+  country: Ukraine
+  zip: "79012"
+courses:
+  - name: Programming Fundamentals
+    code: COMP1001
+    grade: A
+  - name: Data Structures and Algorithms
+    code: COMP2001
+    grade: B+
+friends:
+  - name: Jane Smith
+    age: 21
+    major: Biology
+  - name: Bob Johnson
+    age: 19
+    major: History
+hobbies:
+  - reading
+  - playing guitar
+  - basketball
